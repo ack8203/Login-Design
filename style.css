@@ -1,0 +1,87 @@
+:root{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(#cee4bd,#b4d9b8,#48b0a9,#5a5c5b);
+}
+.ımg{
+   position: absolute;
+    padding-left: 110px;
+    margin-bottom: 50px;
+}
+#log{
+padding-top: 120px;
+}
+.box{
+
+    background-color: #eef1db;
+    height: 549px;
+    width: 446px;
+    border-radius: 15px;
+    margin: auto;
+
+}
+.text{
+
+    color:#645452;
+    font-family: "Raleway ExtraBold";
+    font-size: 34px;
+}
+.texts{
+    font-size: 17px;
+    border-radius: 5px;
+    border:1.5px solid #645452;
+    background-color: #ebf0c6;
+    width: 320px;
+    height: 40px;
+}
+.form{
+
+    padding-left: 67px;
+
+    padding-top: 170px;
+}
+.btn{
+    border: 1px solid #3ca9a8 ;
+    border-radius: 5px;
+    color:white;
+    background-color:#3ca9a8;
+    width: 320px;
+    height: 40px;
+}
+
+.text span{
+    position: absolute;
+   padding-left: 107px;
+    padding-top: 120px;
+
+}
+.forgot{
+    border-radius:0 0 10px 10px;
+    margin-top: 60px;
+    background-color:#dbdfc8;
+    width: 446px;
+    height: 55px;
+}
+.forgot a{
+    position: absolute;
+    padding-top: 15px;
+    padding-left: 164px;
+    text-decoration: none;
+    color:#645452;
+
+
+}
+.g{
+    position: center;
+    margin-bottom: 50px;
+}
+
+.btn:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+.forgot a:hover{
+    color:white;
+}
